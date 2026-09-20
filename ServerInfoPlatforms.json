@@ -1,0 +1,52 @@
+{
+    "redirection": "",
+    "repository": "https://github.com/DevordStudio/Plugins",
+    "packages": [
+        {
+            "name": "AdjustAndApplovin",
+            "displayName": "Adjust & AppLovin",
+            "type": "platform",
+            "version": "1.1",
+            "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/AdjustAndApplovinForYG2.unitypackage?download",
+            "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-576",
+            "dependencies": "Installer",
+            "description": "Android: Adjust + AppLovin MAX + Firebase + RuStore"
+        },
+        {
+            "name": "Playgama",
+            "displayName": "Adjust & AppLovin",
+            "type": "platform",
+            "version": "1.0",
+            "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/PlaygamaPlatformForYG2.unitypackage?download",
+            "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-576",
+            "dependencies": "Installer"
+        },
+        {
+            "name": "Prime",
+            "type": "platform",
+            "version": "1.0",
+            "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/PrimePlatformForYG2.unitypackage?download",
+            "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-673",
+            "dependencies": "Installer"
+        },
+        {
+            "name": "Installer",
+            "type": "module",
+            "version": "1.002",
+            "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Modules/InstallerYG2.unitypackage?download",
+            "keepOnUpdate": true,
+            "description": "Модуль Installer: зависимости платформ и окно Tools/Platforms"
+        },
+        {
+            "name": "Firebase",
+            "type": "other",
+            "version": "13.15.0",
+            "folder": "Assets/Firebase",
+            "versionFile": "Assets/Firebase/Version.txt",
+            "download": "https://github.com/DevordStudio/Plugins/tree/main/Firebase",
+            "noLoad": true,
+            "keepOnUpdate": true,
+            "description": "Ставится через Installer (атрибуты платформы); здесь только для контроля версии"
+        }
+    ]
+}
