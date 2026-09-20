@@ -14,11 +14,10 @@
         },
         {
             "name": "Playgama",
-            "displayName": "Adjust & AppLovin",
             "type": "platform",
             "version": "1.0",
             "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/PlaygamaPlatformForYG2.unitypackage?download",
-            "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-576",
+            "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-703",
             "dependencies": "Installer"
         },
         {
