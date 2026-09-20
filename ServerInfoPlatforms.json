@@ -32,7 +32,7 @@
         {
             "name": "Installer",
             "type": "module",
-            "version": "1.002",
+            "version": "1.003",
             "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Modules/InstallerYG2.unitypackage?download",
             "keepOnUpdate": true,
             "description": "Модуль Installer: зависимости платформ и окно Tools/Platforms"
