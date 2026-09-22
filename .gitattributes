@@ -1,3 +1,4 @@
 Firebase/FirebaseAnalytics/FirebaseAnalytics.unitypackage filter=lfs diff=lfs merge=lfs -text
 Firebase/FirebaseCrashlytics/FirebaseCrashlytics.unitypackage filter=lfs diff=lfs merge=lfs -text
 Firebase/FirebaseRemoteConfig/FirebaseRemoteConfig.unitypackage filter=lfs diff=lfs merge=lfs -text
+Firebase/FirebaseMessaging/FirebaseMessaging.unitypackage filter=lfs diff=lfs merge=lfs -text
