@@ -6,8 +6,8 @@
             "name": "AdjustAndApplovin",
             "displayName": "Adjust & AppLovin",
             "type": "platform",
-            "version": "1.2",
-            "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/AdjustAndApplovinForYG2.unitypackage?download",
+            "version": "1.3",
+            "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/AdjustAndApplovin/AdjustAndApplovinForYG2.unitypackage?download",
             "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-576",
             "dependencies": "Installer",
             "description": "Android: Adjust + AppLovin MAX + Firebase + RuStore"
@@ -15,17 +15,32 @@
         {
             "name": "Playgama",
             "type": "platform",
-            "version": "1.0",
-            "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/PlaygamaPlatformForYG2.unitypackage?download",
+            "version": "1.001",
+            "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/Playgama/PlaygamaPlatformForYG2.unitypackage?download",
             "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-703",
             "dependencies": "Installer"
         },
         {
             "name": "Prime",
             "type": "platform",
-            "version": "1.0",
-            "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/PrimePlatformForYG2.unitypackage?download",
+            "version": "1.2.2",
+            "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/Prime/PrimePlatformForYG2.unitypackage?download",
             "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-673",
+            "dependencies": "Installer"
+        },
+        {
+            "name": "Jest",
+            "type": "platform",
+            "version": "1.0.0",
+            "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/Jest/JestPlatformForYG2.unitypackage?download",
+            "dependencies": "Installer"
+        },
+        {
+            "name": "YouTube Playables (Ytgames)",
+            "type": "platform",
+            "version": "1.3",
+            "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/Ytgames/YtgamesPlatformForYG2.unitypackage?download",
+            "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-1048",
             "dependencies": "Installer"
         },
         {
@@ -46,6 +61,13 @@
             "noLoad": true,
             "keepOnUpdate": true,
             "description": "Ставится через Installer (атрибуты платформы); здесь только для контроля версии"
+        },
+        {
+            "name": "SoundsManagerPool",
+            "type": "tool",
+            "version": "1.0",
+            "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Tools/SoundsManagerPool.unitypackage?download",
+            "dependencies": "Installer"
         }
     ]
 }
