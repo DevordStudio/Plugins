@@ -15,7 +15,7 @@
         {
             "name": "Playgama",
             "type": "platform",
-            "version": "1.001",
+            "version": "1.002",
             "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/Playgama/PlaygamaPlatformForYG2.unitypackage?download",
             "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-703",
             "dependencies": "Installer"
@@ -23,7 +23,7 @@
         {
             "name": "Prime",
             "type": "platform",
-            "version": "1.2.2",
+            "version": "1.3.2",
             "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/Prime/PrimePlatformForYG2.unitypackage?download",
             "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-673",
             "dependencies": "Installer"
@@ -37,6 +37,7 @@
         },
         {
             "name": "YouTube Playables (Ytgames)",
+            "displayName": "YouTube Playables (Ytgames)",
             "type": "platform",
             "version": "1.3",
             "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/Ytgames/YtgamesPlatformForYG2.unitypackage?download",
@@ -46,7 +47,7 @@
         {
             "name": "Installer",
             "type": "module",
-            "version": "1.005",
+            "version": "1.006",
             "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Modules/InstallerYG2.unitypackage?download",
             "keepOnUpdate": true,
             "description": "Модуль Installer: зависимости платформ и окно Tools/Platforms"
