@@ -6,7 +6,7 @@
             "name": "AdjustAndApplovin",
             "displayName": "Adjust & AppLovin",
             "type": "platform",
-            "version": "1.3",
+            "version": "1.7",
             "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/AdjustAndApplovin/AdjustAndApplovinForYG2.unitypackage?download",
             "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-576",
             "dependencies": "Installer",
@@ -23,7 +23,7 @@
         {
             "name": "Prime",
             "type": "platform",
-            "version": "1.3.2",
+            "version": "1.3.3",
             "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/Prime/PrimePlatformForYG2.unitypackage?download",
             "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-673",
             "dependencies": "Installer"
@@ -39,7 +39,7 @@
             "name": "YouTube Playables (Ytgames)",
             "displayName": "YouTube Playables (Ytgames)",
             "type": "platform",
-            "version": "1.3",
+            "version": "1.3.1",
             "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/Ytgames/YtgamesPlatformForYG2.unitypackage?download",
             "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-1048",
             "dependencies": "Installer"
