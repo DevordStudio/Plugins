@@ -39,7 +39,7 @@
             "name": "YouTubePlayables",
             "displayName": "YouTube Playables (Ytgames)",
             "type": "platform",
-            "version": "1.7.3",
+            "version": "1.7.4",
             "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/Ytgames/YtgamesPlatformForYG2.unitypackage?download",
             "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-1048",
             "dependencies": "Installer"
