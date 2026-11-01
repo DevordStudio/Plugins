@@ -23,7 +23,7 @@
         {
             "name": "Prime",
             "type": "platform",
-            "version": "1.3.3",
+            "version": "1.3.7",
             "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/Prime/PrimePlatformForYG2.unitypackage?download",
             "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-673",
             "dependencies": "Installer"
