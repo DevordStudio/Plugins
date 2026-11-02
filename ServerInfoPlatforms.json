@@ -15,7 +15,7 @@
         {
             "name": "Playgama",
             "type": "platform",
-            "version": "1.005",
+            "version": "1.006",
             "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/Playgama/PlaygamaPlatformForYG2.unitypackage?download",
             "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-703",
             "dependencies": "Installer"
