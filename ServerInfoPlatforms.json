@@ -6,11 +6,11 @@
             "name": "AdjustAndApplovin",
             "displayName": "Adjust & AppLovin",
             "type": "platform",
-            "version": "1.10",
+            "version": "1.12",
             "download": "https://github.com/DevordStudio/Plugins/raw/refs/heads/main/Platforms/AdjustAndApplovin/AdjustAndApplovinForYG2.unitypackage?download",
             "doc": "https://ru.yougile.com/board/ceblpa0thg6i/DEV-576",
             "dependencies": "Installer",
-            "description": "Android: Adjust + AppLovin MAX + Firebase + RuStore"
+            "description": "Android: Adjust + AppLovin MAX | CAS + Firebase + RuStore"
         },
         {
             "name": "Playgama",
